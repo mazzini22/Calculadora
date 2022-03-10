@@ -1,2 +1,2 @@
 # Calculator
-A small project made in my technician course
+Projeto de uma calculadora promovido em meu curso técnico
